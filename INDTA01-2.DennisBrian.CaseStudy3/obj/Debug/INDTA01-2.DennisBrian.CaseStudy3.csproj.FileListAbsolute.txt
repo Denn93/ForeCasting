@@ -1,0 +1,10 @@
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\bin\Debug\INDTA01-2.DennisBrian.CaseStudy3.exe.config
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\bin\Debug\INDTA01-2.DennisBrian.CaseStudy3.exe
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\bin\Debug\INDTA01-2.DennisBrian.CaseStudy3.pdb
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01-2.DennisBrian.CaseStudy3.csprojResolveAssemblyReference.cache
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01_2.DennisBrian.CaseStudy3.Form1.resources
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01_2.DennisBrian.CaseStudy3.Properties.Resources.resources
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01-2.DennisBrian.CaseStudy3.csproj.GenerateResource.Cache
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01-2.DennisBrian.CaseStudy3.exe
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\obj\Debug\INDTA01-2.DennisBrian.CaseStudy3.pdb
+c:\users\dennis\documents\visual studio 2013\Projects\INDTA01-2.DennisBrian.CaseStudy3\INDTA01-2.DennisBrian.CaseStudy3\bin\Debug\SESDES.csv
